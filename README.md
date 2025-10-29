@@ -1,4 +1,4 @@
-## py2dll compiler-builder
+# py2dll compiler-builder
 
 ```
 Basic Python to DLL CLI script. Please report any bugs!
@@ -10,4 +10,5 @@ Basic Python to DLL CLI script. Please report any bugs!
 #
 ### Usage
 1. Open `py2dll` in the directory where the `.py` files are located
+
 2. Select 1 or more files to compile
